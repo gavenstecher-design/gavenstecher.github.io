@@ -2,12 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>My Github website</title>
 </head>
 <body>
   <h1>My Github website</h1>
 
-  <img src="Me.jpeg"  width="170" />
+  <img src="Me.JPEG"  width="170" />
 
   <h3>Interests</h3>
   <ul>
@@ -17,8 +16,8 @@
 
   <h3>Cool sites</h3>
   <ol>
-    <li><a href="chess.com">GitHub</a></li>
-    <li><a href="neal.fun">Homework portal</a></li>
+    <li><a href="https://chess.com" target="_blank" rel="noopener">Chess.com</a></li>
+    <li><a href="https://neal.fun" target="_blank" rel="noopener">Neal.fun</a></li>
   </ol>
 
   <h3>About</h3>
