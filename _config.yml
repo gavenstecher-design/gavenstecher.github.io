@@ -1,7 +1,31 @@
-title: My GitHuhb Page
-author: Gaven
-email: gavenstecher@u.boisestate.edu
-theme: minima
-markdown: kramdown
-plugins:
-  - jekyll-feed
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>My example student website</title>
+</head>
+<body>
+  <h1>My example student website</h1>
+
+  <!-- Replace profile.jpg with your own image file name -->
+  <img src="Me.jpeg"  width="170" />
+
+  <h3>Interests</h3>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Your_interest_1">Your interest 1</a></li>
+    <li>Your interest 2</li>
+    <li>Your interest 3</li>
+  </ul>
+
+  <h3>Cool sites</h3>
+  <ol>
+    <li><a href="https://github.com/">GitHub</a></li>
+    <li><a href="https://example.edu/homework">Homework portal</a></li>
+  </ol>
+
+  <h3>About</h3>
+  <p>
+    A short sentence about you goes here. Replace the text, links, and image above with your own.
+  </p>
+</body>
+</html>
