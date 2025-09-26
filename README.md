@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>My Github website</title>
+ My Github website
 </head>
 <body>
   <h1>My Github website</h1>
