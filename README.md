@@ -16,8 +16,8 @@
 
   <h3>Cool sites</h3>
   <ol>
-    <li><a href="chess.com">Chess.com</a></li>
-    <li><a href="neal.fun">neal.fun</a></li>
+    <li><a href="https://chess.com" target="_blank" rel="noopener">Chess.com</a></li>
+    <li><a href="https://neal.fun" target="_blank" rel="noopener">Neal.fun</a></li>
   </ol>
 
   <h3>About</h3>
