@@ -1,1 +1,7 @@
-
+title: My GitHuhb Page
+author: Gaven
+email: gavenstecher@u.boisestate.edu
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
