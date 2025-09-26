@@ -7,7 +7,7 @@
 <body>
   <h1>My Github website</h1>
 
-  <img src="Me.jpeg"  width="170" />
+  <img src="Me.JPEG"  width="170" />
 
   <h3>Interests</h3>
   <ul>
