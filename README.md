@@ -17,8 +17,8 @@
 
   <h3>Cool sites</h3>
   <ol>
-    <li><a href="chess.com">GitHub</a></li>
-    <li><a href="neal.fun">Homework portal</a></li>
+    <li><a href="chess.com">Chess.com</a></li>
+    <li><a href="neal.fun">neal.fun</a></li>
   </ol>
 
   <h3>About</h3>
